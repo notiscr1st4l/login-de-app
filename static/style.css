@@ -1,0 +1,38 @@
+body{
+    background-color:mediumpurple
+}
+
+.cartao{
+    margin: auto;
+    width: 400px;
+    background-color:darkslateblue(231, 231, 231);
+    border: 1px solid purple;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+label{
+    width: 100%;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid royalblue;
+    padding: 7px;
+}
+
+button{
+    background-color:blueviolet;
+    color:white;
+    border: none;
+    width: 100%;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+}
